@@ -75,6 +75,8 @@ int main(){
     // bank_menu();
 
     // int_arr_sort(get_random_int_arr(),10);
+
+    cout << "already to upload to github" << endl;
     
     return 0;
 }
