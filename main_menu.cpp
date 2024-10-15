@@ -10,6 +10,9 @@ void main_menu()
     cout << "2.输出几个字面常量。" << endl;
     cout << "3.定义并输出几个符号常量" << endl;
     cout << "4.定义不同的变量。" << endl;
+    cout << "5.查看小明是怎么花钱的。" <<endl;
+    cout << "6.查看每种变量所需占的字节数。" <<endl;
+    cout << "" <<endl;
 
     cout << endl;
     cout << "请输入你的选择：" ;
@@ -26,8 +29,16 @@ void main_menu()
         break;
     case 3:
         SC();
+        break;
     case 4:
         V();
+        break;
+    case 5:
+        changeV();
+        break;
+    case 6:
+        size();
+        break;
     
     default:
         break;

@@ -471,30 +471,6 @@ bank.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Blackhorse_practice.dir/build.make CMakeFiles/Blackhorse_practice.dir/bank.cpp.s
 .PHONY : bank.cpp.s
 
-changeV.o: changeV.cpp.o
-.PHONY : changeV.o
-
-# target to build an object file
-changeV.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Blackhorse_practice.dir/build.make CMakeFiles/Blackhorse_practice.dir/changeV.cpp.o
-.PHONY : changeV.cpp.o
-
-changeV.i: changeV.cpp.i
-.PHONY : changeV.i
-
-# target to preprocess a source file
-changeV.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Blackhorse_practice.dir/build.make CMakeFiles/Blackhorse_practice.dir/changeV.cpp.i
-.PHONY : changeV.cpp.i
-
-changeV.s: changeV.cpp.s
-.PHONY : changeV.s
-
-# target to generate assembly for a file
-changeV.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/Blackhorse_practice.dir/build.make CMakeFiles/Blackhorse_practice.dir/changeV.cpp.s
-.PHONY : changeV.cpp.s
-
 cin.o: cin.cpp.o
 .PHONY : cin.o
 
@@ -927,6 +903,30 @@ switch.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Blackhorse_practice.dir/build.make CMakeFiles/Blackhorse_practice.dir/switch.cpp.s
 .PHONY : switch.cpp.s
 
+修改变量.o: 修改变量.cpp.o
+.PHONY : 修改变量.o
+
+# target to build an object file
+修改变量.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Blackhorse_practice.dir/build.make CMakeFiles/Blackhorse_practice.dir/修改变量.cpp.o
+.PHONY : 修改变量.cpp.o
+
+修改变量.i: 修改变量.cpp.i
+.PHONY : 修改变量.i
+
+# target to preprocess a source file
+修改变量.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Blackhorse_practice.dir/build.make CMakeFiles/Blackhorse_practice.dir/修改变量.cpp.i
+.PHONY : 修改变量.cpp.i
+
+修改变量.s: 修改变量.cpp.s
+.PHONY : 修改变量.s
+
+# target to generate assembly for a file
+修改变量.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Blackhorse_practice.dir/build.make CMakeFiles/Blackhorse_practice.dir/修改变量.cpp.s
+.PHONY : 修改变量.cpp.s
+
 变量.o: 变量.cpp.o
 .PHONY : 变量.o
 
@@ -1074,9 +1074,6 @@ help:
 	@echo "... bank.o"
 	@echo "... bank.i"
 	@echo "... bank.s"
-	@echo "... changeV.o"
-	@echo "... changeV.i"
-	@echo "... changeV.s"
 	@echo "... cin.o"
 	@echo "... cin.i"
 	@echo "... cin.s"
@@ -1131,6 +1128,9 @@ help:
 	@echo "... switch.o"
 	@echo "... switch.i"
 	@echo "... switch.s"
+	@echo "... 修改变量.o"
+	@echo "... 修改变量.i"
+	@echo "... 修改变量.s"
 	@echo "... 变量.o"
 	@echo "... 变量.i"
 	@echo "... 变量.s"

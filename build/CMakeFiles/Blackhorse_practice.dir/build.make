@@ -268,24 +268,10 @@ CMakeFiles/Blackhorse_practice.dir/bank.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Blackhorse_practice.dir/bank.cpp.s"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mac/VScode/CPP/Blackhorse/bank.cpp -o CMakeFiles/Blackhorse_practice.dir/bank.cpp.s
 
-CMakeFiles/Blackhorse_practice.dir/changeV.cpp.o: CMakeFiles/Blackhorse_practice.dir/flags.make
-CMakeFiles/Blackhorse_practice.dir/changeV.cpp.o: /Users/mac/VScode/CPP/Blackhorse/changeV.cpp
-CMakeFiles/Blackhorse_practice.dir/changeV.cpp.o: CMakeFiles/Blackhorse_practice.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/mac/VScode/CPP/Blackhorse/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/Blackhorse_practice.dir/changeV.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Blackhorse_practice.dir/changeV.cpp.o -MF CMakeFiles/Blackhorse_practice.dir/changeV.cpp.o.d -o CMakeFiles/Blackhorse_practice.dir/changeV.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/changeV.cpp
-
-CMakeFiles/Blackhorse_practice.dir/changeV.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Blackhorse_practice.dir/changeV.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mac/VScode/CPP/Blackhorse/changeV.cpp > CMakeFiles/Blackhorse_practice.dir/changeV.cpp.i
-
-CMakeFiles/Blackhorse_practice.dir/changeV.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Blackhorse_practice.dir/changeV.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mac/VScode/CPP/Blackhorse/changeV.cpp -o CMakeFiles/Blackhorse_practice.dir/changeV.cpp.s
-
 CMakeFiles/Blackhorse_practice.dir/cin.cpp.o: CMakeFiles/Blackhorse_practice.dir/flags.make
 CMakeFiles/Blackhorse_practice.dir/cin.cpp.o: /Users/mac/VScode/CPP/Blackhorse/cin.cpp
 CMakeFiles/Blackhorse_practice.dir/cin.cpp.o: CMakeFiles/Blackhorse_practice.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/mac/VScode/CPP/Blackhorse/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/Blackhorse_practice.dir/cin.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/mac/VScode/CPP/Blackhorse/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_15) "Building CXX object CMakeFiles/Blackhorse_practice.dir/cin.cpp.o"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Blackhorse_practice.dir/cin.cpp.o -MF CMakeFiles/Blackhorse_practice.dir/cin.cpp.o.d -o CMakeFiles/Blackhorse_practice.dir/cin.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/cin.cpp
 
 CMakeFiles/Blackhorse_practice.dir/cin.cpp.i: cmake_force
@@ -299,7 +285,7 @@ CMakeFiles/Blackhorse_practice.dir/cin.cpp.s: cmake_force
 CMakeFiles/Blackhorse_practice.dir/enum.cpp.o: CMakeFiles/Blackhorse_practice.dir/flags.make
 CMakeFiles/Blackhorse_practice.dir/enum.cpp.o: /Users/mac/VScode/CPP/Blackhorse/enum.cpp
 CMakeFiles/Blackhorse_practice.dir/enum.cpp.o: CMakeFiles/Blackhorse_practice.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/mac/VScode/CPP/Blackhorse/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/Blackhorse_practice.dir/enum.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/mac/VScode/CPP/Blackhorse/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_16) "Building CXX object CMakeFiles/Blackhorse_practice.dir/enum.cpp.o"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Blackhorse_practice.dir/enum.cpp.o -MF CMakeFiles/Blackhorse_practice.dir/enum.cpp.o.d -o CMakeFiles/Blackhorse_practice.dir/enum.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/enum.cpp
 
 CMakeFiles/Blackhorse_practice.dir/enum.cpp.i: cmake_force
@@ -313,7 +299,7 @@ CMakeFiles/Blackhorse_practice.dir/enum.cpp.s: cmake_force
 CMakeFiles/Blackhorse_practice.dir/function_nesting.cpp.o: CMakeFiles/Blackhorse_practice.dir/flags.make
 CMakeFiles/Blackhorse_practice.dir/function_nesting.cpp.o: /Users/mac/VScode/CPP/Blackhorse/function_nesting.cpp
 CMakeFiles/Blackhorse_practice.dir/function_nesting.cpp.o: CMakeFiles/Blackhorse_practice.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/mac/VScode/CPP/Blackhorse/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/Blackhorse_practice.dir/function_nesting.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/mac/VScode/CPP/Blackhorse/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_17) "Building CXX object CMakeFiles/Blackhorse_practice.dir/function_nesting.cpp.o"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Blackhorse_practice.dir/function_nesting.cpp.o -MF CMakeFiles/Blackhorse_practice.dir/function_nesting.cpp.o.d -o CMakeFiles/Blackhorse_practice.dir/function_nesting.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/function_nesting.cpp
 
 CMakeFiles/Blackhorse_practice.dir/function_nesting.cpp.i: cmake_force
@@ -327,7 +313,7 @@ CMakeFiles/Blackhorse_practice.dir/function_nesting.cpp.s: cmake_force
 CMakeFiles/Blackhorse_practice.dir/get_random_number.cpp.o: CMakeFiles/Blackhorse_practice.dir/flags.make
 CMakeFiles/Blackhorse_practice.dir/get_random_number.cpp.o: /Users/mac/VScode/CPP/Blackhorse/get_random_number.cpp
 CMakeFiles/Blackhorse_practice.dir/get_random_number.cpp.o: CMakeFiles/Blackhorse_practice.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/mac/VScode/CPP/Blackhorse/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/Blackhorse_practice.dir/get_random_number.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/mac/VScode/CPP/Blackhorse/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_18) "Building CXX object CMakeFiles/Blackhorse_practice.dir/get_random_number.cpp.o"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Blackhorse_practice.dir/get_random_number.cpp.o -MF CMakeFiles/Blackhorse_practice.dir/get_random_number.cpp.o.d -o CMakeFiles/Blackhorse_practice.dir/get_random_number.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/get_random_number.cpp
 
 CMakeFiles/Blackhorse_practice.dir/get_random_number.cpp.i: cmake_force
@@ -341,7 +327,7 @@ CMakeFiles/Blackhorse_practice.dir/get_random_number.cpp.s: cmake_force
 CMakeFiles/Blackhorse_practice.dir/int_arr_sort.cpp.o: CMakeFiles/Blackhorse_practice.dir/flags.make
 CMakeFiles/Blackhorse_practice.dir/int_arr_sort.cpp.o: /Users/mac/VScode/CPP/Blackhorse/int_arr_sort.cpp
 CMakeFiles/Blackhorse_practice.dir/int_arr_sort.cpp.o: CMakeFiles/Blackhorse_practice.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/mac/VScode/CPP/Blackhorse/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/Blackhorse_practice.dir/int_arr_sort.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/mac/VScode/CPP/Blackhorse/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_19) "Building CXX object CMakeFiles/Blackhorse_practice.dir/int_arr_sort.cpp.o"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Blackhorse_practice.dir/int_arr_sort.cpp.o -MF CMakeFiles/Blackhorse_practice.dir/int_arr_sort.cpp.o.d -o CMakeFiles/Blackhorse_practice.dir/int_arr_sort.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/int_arr_sort.cpp
 
 CMakeFiles/Blackhorse_practice.dir/int_arr_sort.cpp.i: cmake_force
@@ -355,7 +341,7 @@ CMakeFiles/Blackhorse_practice.dir/int_arr_sort.cpp.s: cmake_force
 CMakeFiles/Blackhorse_practice.dir/logical.cpp.o: CMakeFiles/Blackhorse_practice.dir/flags.make
 CMakeFiles/Blackhorse_practice.dir/logical.cpp.o: /Users/mac/VScode/CPP/Blackhorse/logical.cpp
 CMakeFiles/Blackhorse_practice.dir/logical.cpp.o: CMakeFiles/Blackhorse_practice.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/mac/VScode/CPP/Blackhorse/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/Blackhorse_practice.dir/logical.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/mac/VScode/CPP/Blackhorse/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_20) "Building CXX object CMakeFiles/Blackhorse_practice.dir/logical.cpp.o"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Blackhorse_practice.dir/logical.cpp.o -MF CMakeFiles/Blackhorse_practice.dir/logical.cpp.o.d -o CMakeFiles/Blackhorse_practice.dir/logical.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/logical.cpp
 
 CMakeFiles/Blackhorse_practice.dir/logical.cpp.i: cmake_force
@@ -369,7 +355,7 @@ CMakeFiles/Blackhorse_practice.dir/logical.cpp.s: cmake_force
 CMakeFiles/Blackhorse_practice.dir/love.cpp.o: CMakeFiles/Blackhorse_practice.dir/flags.make
 CMakeFiles/Blackhorse_practice.dir/love.cpp.o: /Users/mac/VScode/CPP/Blackhorse/love.cpp
 CMakeFiles/Blackhorse_practice.dir/love.cpp.o: CMakeFiles/Blackhorse_practice.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/mac/VScode/CPP/Blackhorse/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/Blackhorse_practice.dir/love.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/mac/VScode/CPP/Blackhorse/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_21) "Building CXX object CMakeFiles/Blackhorse_practice.dir/love.cpp.o"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Blackhorse_practice.dir/love.cpp.o -MF CMakeFiles/Blackhorse_practice.dir/love.cpp.o.d -o CMakeFiles/Blackhorse_practice.dir/love.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/love.cpp
 
 CMakeFiles/Blackhorse_practice.dir/love.cpp.i: cmake_force
@@ -383,7 +369,7 @@ CMakeFiles/Blackhorse_practice.dir/love.cpp.s: cmake_force
 CMakeFiles/Blackhorse_practice.dir/main.cpp.o: CMakeFiles/Blackhorse_practice.dir/flags.make
 CMakeFiles/Blackhorse_practice.dir/main.cpp.o: /Users/mac/VScode/CPP/Blackhorse/main.cpp
 CMakeFiles/Blackhorse_practice.dir/main.cpp.o: CMakeFiles/Blackhorse_practice.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/mac/VScode/CPP/Blackhorse/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/Blackhorse_practice.dir/main.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/mac/VScode/CPP/Blackhorse/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_22) "Building CXX object CMakeFiles/Blackhorse_practice.dir/main.cpp.o"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Blackhorse_practice.dir/main.cpp.o -MF CMakeFiles/Blackhorse_practice.dir/main.cpp.o.d -o CMakeFiles/Blackhorse_practice.dir/main.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/main.cpp
 
 CMakeFiles/Blackhorse_practice.dir/main.cpp.i: cmake_force
@@ -397,7 +383,7 @@ CMakeFiles/Blackhorse_practice.dir/main.cpp.s: cmake_force
 CMakeFiles/Blackhorse_practice.dir/main_menu.cpp.o: CMakeFiles/Blackhorse_practice.dir/flags.make
 CMakeFiles/Blackhorse_practice.dir/main_menu.cpp.o: /Users/mac/VScode/CPP/Blackhorse/main_menu.cpp
 CMakeFiles/Blackhorse_practice.dir/main_menu.cpp.o: CMakeFiles/Blackhorse_practice.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/mac/VScode/CPP/Blackhorse/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/Blackhorse_practice.dir/main_menu.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/mac/VScode/CPP/Blackhorse/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_23) "Building CXX object CMakeFiles/Blackhorse_practice.dir/main_menu.cpp.o"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Blackhorse_practice.dir/main_menu.cpp.o -MF CMakeFiles/Blackhorse_practice.dir/main_menu.cpp.o.d -o CMakeFiles/Blackhorse_practice.dir/main_menu.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/main_menu.cpp
 
 CMakeFiles/Blackhorse_practice.dir/main_menu.cpp.i: cmake_force
@@ -411,7 +397,7 @@ CMakeFiles/Blackhorse_practice.dir/main_menu.cpp.s: cmake_force
 CMakeFiles/Blackhorse_practice.dir/memory_free.cpp.o: CMakeFiles/Blackhorse_practice.dir/flags.make
 CMakeFiles/Blackhorse_practice.dir/memory_free.cpp.o: /Users/mac/VScode/CPP/Blackhorse/memory_free.cpp
 CMakeFiles/Blackhorse_practice.dir/memory_free.cpp.o: CMakeFiles/Blackhorse_practice.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/mac/VScode/CPP/Blackhorse/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/Blackhorse_practice.dir/memory_free.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/mac/VScode/CPP/Blackhorse/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_24) "Building CXX object CMakeFiles/Blackhorse_practice.dir/memory_free.cpp.o"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Blackhorse_practice.dir/memory_free.cpp.o -MF CMakeFiles/Blackhorse_practice.dir/memory_free.cpp.o.d -o CMakeFiles/Blackhorse_practice.dir/memory_free.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/memory_free.cpp
 
 CMakeFiles/Blackhorse_practice.dir/memory_free.cpp.i: cmake_force
@@ -425,7 +411,7 @@ CMakeFiles/Blackhorse_practice.dir/memory_free.cpp.s: cmake_force
 CMakeFiles/Blackhorse_practice.dir/new_delete.cpp.o: CMakeFiles/Blackhorse_practice.dir/flags.make
 CMakeFiles/Blackhorse_practice.dir/new_delete.cpp.o: /Users/mac/VScode/CPP/Blackhorse/new_delete.cpp
 CMakeFiles/Blackhorse_practice.dir/new_delete.cpp.o: CMakeFiles/Blackhorse_practice.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/mac/VScode/CPP/Blackhorse/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/Blackhorse_practice.dir/new_delete.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/mac/VScode/CPP/Blackhorse/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_25) "Building CXX object CMakeFiles/Blackhorse_practice.dir/new_delete.cpp.o"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Blackhorse_practice.dir/new_delete.cpp.o -MF CMakeFiles/Blackhorse_practice.dir/new_delete.cpp.o.d -o CMakeFiles/Blackhorse_practice.dir/new_delete.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/new_delete.cpp
 
 CMakeFiles/Blackhorse_practice.dir/new_delete.cpp.i: cmake_force
@@ -439,7 +425,7 @@ CMakeFiles/Blackhorse_practice.dir/new_delete.cpp.s: cmake_force
 CMakeFiles/Blackhorse_practice.dir/pointer_array.cpp.o: CMakeFiles/Blackhorse_practice.dir/flags.make
 CMakeFiles/Blackhorse_practice.dir/pointer_array.cpp.o: /Users/mac/VScode/CPP/Blackhorse/pointer_array.cpp
 CMakeFiles/Blackhorse_practice.dir/pointer_array.cpp.o: CMakeFiles/Blackhorse_practice.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/mac/VScode/CPP/Blackhorse/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/Blackhorse_practice.dir/pointer_array.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/mac/VScode/CPP/Blackhorse/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_26) "Building CXX object CMakeFiles/Blackhorse_practice.dir/pointer_array.cpp.o"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Blackhorse_practice.dir/pointer_array.cpp.o -MF CMakeFiles/Blackhorse_practice.dir/pointer_array.cpp.o.d -o CMakeFiles/Blackhorse_practice.dir/pointer_array.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/pointer_array.cpp
 
 CMakeFiles/Blackhorse_practice.dir/pointer_array.cpp.i: cmake_force
@@ -453,7 +439,7 @@ CMakeFiles/Blackhorse_practice.dir/pointer_array.cpp.s: cmake_force
 CMakeFiles/Blackhorse_practice.dir/salary.cpp.o: CMakeFiles/Blackhorse_practice.dir/flags.make
 CMakeFiles/Blackhorse_practice.dir/salary.cpp.o: /Users/mac/VScode/CPP/Blackhorse/salary.cpp
 CMakeFiles/Blackhorse_practice.dir/salary.cpp.o: CMakeFiles/Blackhorse_practice.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/mac/VScode/CPP/Blackhorse/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/Blackhorse_practice.dir/salary.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/mac/VScode/CPP/Blackhorse/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_27) "Building CXX object CMakeFiles/Blackhorse_practice.dir/salary.cpp.o"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Blackhorse_practice.dir/salary.cpp.o -MF CMakeFiles/Blackhorse_practice.dir/salary.cpp.o.d -o CMakeFiles/Blackhorse_practice.dir/salary.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/salary.cpp
 
 CMakeFiles/Blackhorse_practice.dir/salary.cpp.i: cmake_force
@@ -467,7 +453,7 @@ CMakeFiles/Blackhorse_practice.dir/salary.cpp.s: cmake_force
 CMakeFiles/Blackhorse_practice.dir/selection_sort.cpp.o: CMakeFiles/Blackhorse_practice.dir/flags.make
 CMakeFiles/Blackhorse_practice.dir/selection_sort.cpp.o: /Users/mac/VScode/CPP/Blackhorse/selection_sort.cpp
 CMakeFiles/Blackhorse_practice.dir/selection_sort.cpp.o: CMakeFiles/Blackhorse_practice.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/mac/VScode/CPP/Blackhorse/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/Blackhorse_practice.dir/selection_sort.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/mac/VScode/CPP/Blackhorse/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_28) "Building CXX object CMakeFiles/Blackhorse_practice.dir/selection_sort.cpp.o"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Blackhorse_practice.dir/selection_sort.cpp.o -MF CMakeFiles/Blackhorse_practice.dir/selection_sort.cpp.o.d -o CMakeFiles/Blackhorse_practice.dir/selection_sort.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/selection_sort.cpp
 
 CMakeFiles/Blackhorse_practice.dir/selection_sort.cpp.i: cmake_force
@@ -481,7 +467,7 @@ CMakeFiles/Blackhorse_practice.dir/selection_sort.cpp.s: cmake_force
 CMakeFiles/Blackhorse_practice.dir/size.cpp.o: CMakeFiles/Blackhorse_practice.dir/flags.make
 CMakeFiles/Blackhorse_practice.dir/size.cpp.o: /Users/mac/VScode/CPP/Blackhorse/size.cpp
 CMakeFiles/Blackhorse_practice.dir/size.cpp.o: CMakeFiles/Blackhorse_practice.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/mac/VScode/CPP/Blackhorse/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/Blackhorse_practice.dir/size.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/mac/VScode/CPP/Blackhorse/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_29) "Building CXX object CMakeFiles/Blackhorse_practice.dir/size.cpp.o"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Blackhorse_practice.dir/size.cpp.o -MF CMakeFiles/Blackhorse_practice.dir/size.cpp.o.d -o CMakeFiles/Blackhorse_practice.dir/size.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/size.cpp
 
 CMakeFiles/Blackhorse_practice.dir/size.cpp.i: cmake_force
@@ -495,7 +481,7 @@ CMakeFiles/Blackhorse_practice.dir/size.cpp.s: cmake_force
 CMakeFiles/Blackhorse_practice.dir/struct.cpp.o: CMakeFiles/Blackhorse_practice.dir/flags.make
 CMakeFiles/Blackhorse_practice.dir/struct.cpp.o: /Users/mac/VScode/CPP/Blackhorse/struct.cpp
 CMakeFiles/Blackhorse_practice.dir/struct.cpp.o: CMakeFiles/Blackhorse_practice.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/mac/VScode/CPP/Blackhorse/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/Blackhorse_practice.dir/struct.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/mac/VScode/CPP/Blackhorse/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_30) "Building CXX object CMakeFiles/Blackhorse_practice.dir/struct.cpp.o"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Blackhorse_practice.dir/struct.cpp.o -MF CMakeFiles/Blackhorse_practice.dir/struct.cpp.o.d -o CMakeFiles/Blackhorse_practice.dir/struct.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/struct.cpp
 
 CMakeFiles/Blackhorse_practice.dir/struct.cpp.i: cmake_force
@@ -509,7 +495,7 @@ CMakeFiles/Blackhorse_practice.dir/struct.cpp.s: cmake_force
 CMakeFiles/Blackhorse_practice.dir/struct_point.cpp.o: CMakeFiles/Blackhorse_practice.dir/flags.make
 CMakeFiles/Blackhorse_practice.dir/struct_point.cpp.o: /Users/mac/VScode/CPP/Blackhorse/struct_point.cpp
 CMakeFiles/Blackhorse_practice.dir/struct_point.cpp.o: CMakeFiles/Blackhorse_practice.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/mac/VScode/CPP/Blackhorse/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/Blackhorse_practice.dir/struct_point.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/mac/VScode/CPP/Blackhorse/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_31) "Building CXX object CMakeFiles/Blackhorse_practice.dir/struct_point.cpp.o"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Blackhorse_practice.dir/struct_point.cpp.o -MF CMakeFiles/Blackhorse_practice.dir/struct_point.cpp.o.d -o CMakeFiles/Blackhorse_practice.dir/struct_point.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/struct_point.cpp
 
 CMakeFiles/Blackhorse_practice.dir/struct_point.cpp.i: cmake_force
@@ -523,7 +509,7 @@ CMakeFiles/Blackhorse_practice.dir/struct_point.cpp.s: cmake_force
 CMakeFiles/Blackhorse_practice.dir/switch.cpp.o: CMakeFiles/Blackhorse_practice.dir/flags.make
 CMakeFiles/Blackhorse_practice.dir/switch.cpp.o: /Users/mac/VScode/CPP/Blackhorse/switch.cpp
 CMakeFiles/Blackhorse_practice.dir/switch.cpp.o: CMakeFiles/Blackhorse_practice.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/mac/VScode/CPP/Blackhorse/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/Blackhorse_practice.dir/switch.cpp.o"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/mac/VScode/CPP/Blackhorse/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_32) "Building CXX object CMakeFiles/Blackhorse_practice.dir/switch.cpp.o"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Blackhorse_practice.dir/switch.cpp.o -MF CMakeFiles/Blackhorse_practice.dir/switch.cpp.o.d -o CMakeFiles/Blackhorse_practice.dir/switch.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/switch.cpp
 
 CMakeFiles/Blackhorse_practice.dir/switch.cpp.i: cmake_force
@@ -533,6 +519,20 @@ CMakeFiles/Blackhorse_practice.dir/switch.cpp.i: cmake_force
 CMakeFiles/Blackhorse_practice.dir/switch.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Blackhorse_practice.dir/switch.cpp.s"
 	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mac/VScode/CPP/Blackhorse/switch.cpp -o CMakeFiles/Blackhorse_practice.dir/switch.cpp.s
+
+CMakeFiles/Blackhorse_practice.dir/修改变量.cpp.o: CMakeFiles/Blackhorse_practice.dir/flags.make
+CMakeFiles/Blackhorse_practice.dir/修改变量.cpp.o: /Users/mac/VScode/CPP/Blackhorse/修改变量.cpp
+CMakeFiles/Blackhorse_practice.dir/修改变量.cpp.o: CMakeFiles/Blackhorse_practice.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/mac/VScode/CPP/Blackhorse/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_33) "Building CXX object CMakeFiles/Blackhorse_practice.dir/修改变量.cpp.o"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Blackhorse_practice.dir/修改变量.cpp.o -MF CMakeFiles/Blackhorse_practice.dir/修改变量.cpp.o.d -o CMakeFiles/Blackhorse_practice.dir/修改变量.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/修改变量.cpp
+
+CMakeFiles/Blackhorse_practice.dir/修改变量.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Blackhorse_practice.dir/修改变量.cpp.i"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/mac/VScode/CPP/Blackhorse/修改变量.cpp > CMakeFiles/Blackhorse_practice.dir/修改变量.cpp.i
+
+CMakeFiles/Blackhorse_practice.dir/修改变量.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Blackhorse_practice.dir/修改变量.cpp.s"
+	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/mac/VScode/CPP/Blackhorse/修改变量.cpp -o CMakeFiles/Blackhorse_practice.dir/修改变量.cpp.s
 
 CMakeFiles/Blackhorse_practice.dir/变量.cpp.o: CMakeFiles/Blackhorse_practice.dir/flags.make
 CMakeFiles/Blackhorse_practice.dir/变量.cpp.o: /Users/mac/VScode/CPP/Blackhorse/变量.cpp
@@ -606,7 +606,6 @@ Blackhorse_practice_OBJECTS = \
 "CMakeFiles/Blackhorse_practice.dir/array_comparison.cpp.o" \
 "CMakeFiles/Blackhorse_practice.dir/array_iteration.cpp.o" \
 "CMakeFiles/Blackhorse_practice.dir/bank.cpp.o" \
-"CMakeFiles/Blackhorse_practice.dir/changeV.cpp.o" \
 "CMakeFiles/Blackhorse_practice.dir/cin.cpp.o" \
 "CMakeFiles/Blackhorse_practice.dir/enum.cpp.o" \
 "CMakeFiles/Blackhorse_practice.dir/function_nesting.cpp.o" \
@@ -625,6 +624,7 @@ Blackhorse_practice_OBJECTS = \
 "CMakeFiles/Blackhorse_practice.dir/struct.cpp.o" \
 "CMakeFiles/Blackhorse_practice.dir/struct_point.cpp.o" \
 "CMakeFiles/Blackhorse_practice.dir/switch.cpp.o" \
+"CMakeFiles/Blackhorse_practice.dir/修改变量.cpp.o" \
 "CMakeFiles/Blackhorse_practice.dir/变量.cpp.o" \
 "CMakeFiles/Blackhorse_practice.dir/字面常量.cpp.o" \
 "CMakeFiles/Blackhorse_practice.dir/将输入的字符输出.cpp.o" \
@@ -647,7 +647,6 @@ Blackhorse_practice: CMakeFiles/Blackhorse_practice.dir/While_guess.cpp.o
 Blackhorse_practice: CMakeFiles/Blackhorse_practice.dir/array_comparison.cpp.o
 Blackhorse_practice: CMakeFiles/Blackhorse_practice.dir/array_iteration.cpp.o
 Blackhorse_practice: CMakeFiles/Blackhorse_practice.dir/bank.cpp.o
-Blackhorse_practice: CMakeFiles/Blackhorse_practice.dir/changeV.cpp.o
 Blackhorse_practice: CMakeFiles/Blackhorse_practice.dir/cin.cpp.o
 Blackhorse_practice: CMakeFiles/Blackhorse_practice.dir/enum.cpp.o
 Blackhorse_practice: CMakeFiles/Blackhorse_practice.dir/function_nesting.cpp.o
@@ -666,6 +665,7 @@ Blackhorse_practice: CMakeFiles/Blackhorse_practice.dir/size.cpp.o
 Blackhorse_practice: CMakeFiles/Blackhorse_practice.dir/struct.cpp.o
 Blackhorse_practice: CMakeFiles/Blackhorse_practice.dir/struct_point.cpp.o
 Blackhorse_practice: CMakeFiles/Blackhorse_practice.dir/switch.cpp.o
+Blackhorse_practice: CMakeFiles/Blackhorse_practice.dir/修改变量.cpp.o
 Blackhorse_practice: CMakeFiles/Blackhorse_practice.dir/变量.cpp.o
 Blackhorse_practice: CMakeFiles/Blackhorse_practice.dir/字面常量.cpp.o
 Blackhorse_practice: CMakeFiles/Blackhorse_practice.dir/将输入的字符输出.cpp.o

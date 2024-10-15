@@ -12,7 +12,7 @@ int size() {
 
     long long d = 4;
 
-    cout << a << " "<< b << " "<< c << " "<< d << " "<< endl;
+    // cout << a << " "<< b << " "<< c << " "<< d << " "<< endl;
 
     cout << "short类型变量占用的字节数：" << sizeof(a) << endl;
     cout << "int类型变量占用的字节数：" << sizeof(b) << endl;

@@ -85,12 +85,6 @@
 },
 {
   "directory": "/Users/mac/VScode/CPP/Blackhorse/build",
-  "command": "/usr/bin/clang++   -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/Blackhorse_practice.dir/changeV.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/changeV.cpp",
-  "file": "/Users/mac/VScode/CPP/Blackhorse/changeV.cpp",
-  "output": "CMakeFiles/Blackhorse_practice.dir/changeV.cpp.o"
-},
-{
-  "directory": "/Users/mac/VScode/CPP/Blackhorse/build",
   "command": "/usr/bin/clang++   -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/Blackhorse_practice.dir/cin.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/cin.cpp",
   "file": "/Users/mac/VScode/CPP/Blackhorse/cin.cpp",
   "output": "CMakeFiles/Blackhorse_practice.dir/cin.cpp.o"
@@ -196,6 +190,12 @@
   "command": "/usr/bin/clang++   -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/Blackhorse_practice.dir/switch.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/switch.cpp",
   "file": "/Users/mac/VScode/CPP/Blackhorse/switch.cpp",
   "output": "CMakeFiles/Blackhorse_practice.dir/switch.cpp.o"
+},
+{
+  "directory": "/Users/mac/VScode/CPP/Blackhorse/build",
+  "command": "/usr/bin/clang++   -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/Blackhorse_practice.dir/修改变量.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/修改变量.cpp",
+  "file": "/Users/mac/VScode/CPP/Blackhorse/修改变量.cpp",
+  "output": "CMakeFiles/Blackhorse_practice.dir/修改变量.cpp.o"
 },
 {
   "directory": "/Users/mac/VScode/CPP/Blackhorse/build",

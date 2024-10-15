@@ -6,10 +6,6 @@ int main(){
 
     main_menu();
 
-    // V();
-
-    // changeV();
-
     // size();
 
     // Unsigned();

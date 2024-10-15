@@ -30,9 +30,9 @@
 				"-fcolor-diagnostics",
 				"-fansi-escape-codes",
 				"-g",
-				"${file}",
+				"${workspaceFolder}/*.cpp",
 				"-o",
-				"${fileDirname}/${fileBasenameNoExtension}"
+				"${workspaceFolder}/output"
 			],
 			"options": {
 				"cwd": "${fileDirname}"
