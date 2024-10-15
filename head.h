@@ -4,6 +4,7 @@
 #include "iostream"
 using namespace std;
 
+void main_menu();
 int cppout();
 int LC();
 int SC();

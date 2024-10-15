@@ -1,14 +1,10 @@
 #include "head.h"
 
+// 后续会整理cpp文件以保证分清每个文件的作用
+
 int main(){
 
-    // cout << "hello world" << endl;
-
-    // cppout();
-
-    // LC();
-
-    // SC();
+    main_menu();
 
     // V();
 
@@ -76,7 +72,9 @@ int main(){
 
     // int_arr_sort(get_random_int_arr(),10);
 
-    cout << "already to upload to github" << endl;
+    // cout << "already to upload to github" << endl;
+
+    // cout << "using Cmake" ;
     
     return 0;
 }

@@ -7,11 +7,10 @@
         {
             "type": "lldb",
             "request": "launch",
-            "name": "lldbLaunch",
-            "program": "${workspaceFolder}/output",
+            "name": "Debug",
+            "program": "${workspaceFolder}/build/Blackhorse_practice",
             "args": [],
             "cwd": "${workspaceFolder}"
         }
-
     ]
 }

@@ -1,0 +1,224 @@
+[
+{
+  "directory": "/Users/mac/VScode/CPP/Blackhorse/build",
+  "command": "/usr/bin/clang++   -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/Blackhorse_practice.dir/AO.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/AO.cpp",
+  "file": "/Users/mac/VScode/CPP/Blackhorse/AO.cpp",
+  "output": "CMakeFiles/Blackhorse_practice.dir/AO.cpp.o"
+},
+{
+  "directory": "/Users/mac/VScode/CPP/Blackhorse/build",
+  "command": "/usr/bin/clang++   -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/Blackhorse_practice.dir/CO.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/CO.cpp",
+  "file": "/Users/mac/VScode/CPP/Blackhorse/CO.cpp",
+  "output": "CMakeFiles/Blackhorse_practice.dir/CO.cpp.o"
+},
+{
+  "directory": "/Users/mac/VScode/CPP/Blackhorse/build",
+  "command": "/usr/bin/clang++   -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/Blackhorse_practice.dir/F99.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/F99.cpp",
+  "file": "/Users/mac/VScode/CPP/Blackhorse/F99.cpp",
+  "output": "CMakeFiles/Blackhorse_practice.dir/F99.cpp.o"
+},
+{
+  "directory": "/Users/mac/VScode/CPP/Blackhorse/build",
+  "command": "/usr/bin/clang++   -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/Blackhorse_practice.dir/For_even.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/For_even.cpp",
+  "file": "/Users/mac/VScode/CPP/Blackhorse/For_even.cpp",
+  "output": "CMakeFiles/Blackhorse_practice.dir/For_even.cpp.o"
+},
+{
+  "directory": "/Users/mac/VScode/CPP/Blackhorse/build",
+  "command": "/usr/bin/clang++   -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/Blackhorse_practice.dir/IF.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/IF.cpp",
+  "file": "/Users/mac/VScode/CPP/Blackhorse/IF.cpp",
+  "output": "CMakeFiles/Blackhorse_practice.dir/IF.cpp.o"
+},
+{
+  "directory": "/Users/mac/VScode/CPP/Blackhorse/build",
+  "command": "/usr/bin/clang++   -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/Blackhorse_practice.dir/String_concatenation.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/String_concatenation.cpp",
+  "file": "/Users/mac/VScode/CPP/Blackhorse/String_concatenation.cpp",
+  "output": "CMakeFiles/Blackhorse_practice.dir/String_concatenation.cpp.o"
+},
+{
+  "directory": "/Users/mac/VScode/CPP/Blackhorse/build",
+  "command": "/usr/bin/clang++   -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/Blackhorse_practice.dir/TO.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/TO.cpp",
+  "file": "/Users/mac/VScode/CPP/Blackhorse/TO.cpp",
+  "output": "CMakeFiles/Blackhorse_practice.dir/TO.cpp.o"
+},
+{
+  "directory": "/Users/mac/VScode/CPP/Blackhorse/build",
+  "command": "/usr/bin/clang++   -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/Blackhorse_practice.dir/Unsigned.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/Unsigned.cpp",
+  "file": "/Users/mac/VScode/CPP/Blackhorse/Unsigned.cpp",
+  "output": "CMakeFiles/Blackhorse_practice.dir/Unsigned.cpp.o"
+},
+{
+  "directory": "/Users/mac/VScode/CPP/Blackhorse/build",
+  "command": "/usr/bin/clang++   -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/Blackhorse_practice.dir/W99.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/W99.cpp",
+  "file": "/Users/mac/VScode/CPP/Blackhorse/W99.cpp",
+  "output": "CMakeFiles/Blackhorse_practice.dir/W99.cpp.o"
+},
+{
+  "directory": "/Users/mac/VScode/CPP/Blackhorse/build",
+  "command": "/usr/bin/clang++   -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/Blackhorse_practice.dir/While_SUM.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/While_SUM.cpp",
+  "file": "/Users/mac/VScode/CPP/Blackhorse/While_SUM.cpp",
+  "output": "CMakeFiles/Blackhorse_practice.dir/While_SUM.cpp.o"
+},
+{
+  "directory": "/Users/mac/VScode/CPP/Blackhorse/build",
+  "command": "/usr/bin/clang++   -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/Blackhorse_practice.dir/While_guess.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/While_guess.cpp",
+  "file": "/Users/mac/VScode/CPP/Blackhorse/While_guess.cpp",
+  "output": "CMakeFiles/Blackhorse_practice.dir/While_guess.cpp.o"
+},
+{
+  "directory": "/Users/mac/VScode/CPP/Blackhorse/build",
+  "command": "/usr/bin/clang++   -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/Blackhorse_practice.dir/array_comparison.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/array_comparison.cpp",
+  "file": "/Users/mac/VScode/CPP/Blackhorse/array_comparison.cpp",
+  "output": "CMakeFiles/Blackhorse_practice.dir/array_comparison.cpp.o"
+},
+{
+  "directory": "/Users/mac/VScode/CPP/Blackhorse/build",
+  "command": "/usr/bin/clang++   -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/Blackhorse_practice.dir/array_iteration.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/array_iteration.cpp",
+  "file": "/Users/mac/VScode/CPP/Blackhorse/array_iteration.cpp",
+  "output": "CMakeFiles/Blackhorse_practice.dir/array_iteration.cpp.o"
+},
+{
+  "directory": "/Users/mac/VScode/CPP/Blackhorse/build",
+  "command": "/usr/bin/clang++   -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/Blackhorse_practice.dir/bank.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/bank.cpp",
+  "file": "/Users/mac/VScode/CPP/Blackhorse/bank.cpp",
+  "output": "CMakeFiles/Blackhorse_practice.dir/bank.cpp.o"
+},
+{
+  "directory": "/Users/mac/VScode/CPP/Blackhorse/build",
+  "command": "/usr/bin/clang++   -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/Blackhorse_practice.dir/changeV.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/changeV.cpp",
+  "file": "/Users/mac/VScode/CPP/Blackhorse/changeV.cpp",
+  "output": "CMakeFiles/Blackhorse_practice.dir/changeV.cpp.o"
+},
+{
+  "directory": "/Users/mac/VScode/CPP/Blackhorse/build",
+  "command": "/usr/bin/clang++   -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/Blackhorse_practice.dir/cin.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/cin.cpp",
+  "file": "/Users/mac/VScode/CPP/Blackhorse/cin.cpp",
+  "output": "CMakeFiles/Blackhorse_practice.dir/cin.cpp.o"
+},
+{
+  "directory": "/Users/mac/VScode/CPP/Blackhorse/build",
+  "command": "/usr/bin/clang++   -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/Blackhorse_practice.dir/enum.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/enum.cpp",
+  "file": "/Users/mac/VScode/CPP/Blackhorse/enum.cpp",
+  "output": "CMakeFiles/Blackhorse_practice.dir/enum.cpp.o"
+},
+{
+  "directory": "/Users/mac/VScode/CPP/Blackhorse/build",
+  "command": "/usr/bin/clang++   -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/Blackhorse_practice.dir/function_nesting.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/function_nesting.cpp",
+  "file": "/Users/mac/VScode/CPP/Blackhorse/function_nesting.cpp",
+  "output": "CMakeFiles/Blackhorse_practice.dir/function_nesting.cpp.o"
+},
+{
+  "directory": "/Users/mac/VScode/CPP/Blackhorse/build",
+  "command": "/usr/bin/clang++   -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/Blackhorse_practice.dir/get_random_number.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/get_random_number.cpp",
+  "file": "/Users/mac/VScode/CPP/Blackhorse/get_random_number.cpp",
+  "output": "CMakeFiles/Blackhorse_practice.dir/get_random_number.cpp.o"
+},
+{
+  "directory": "/Users/mac/VScode/CPP/Blackhorse/build",
+  "command": "/usr/bin/clang++   -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/Blackhorse_practice.dir/int_arr_sort.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/int_arr_sort.cpp",
+  "file": "/Users/mac/VScode/CPP/Blackhorse/int_arr_sort.cpp",
+  "output": "CMakeFiles/Blackhorse_practice.dir/int_arr_sort.cpp.o"
+},
+{
+  "directory": "/Users/mac/VScode/CPP/Blackhorse/build",
+  "command": "/usr/bin/clang++   -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/Blackhorse_practice.dir/logical.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/logical.cpp",
+  "file": "/Users/mac/VScode/CPP/Blackhorse/logical.cpp",
+  "output": "CMakeFiles/Blackhorse_practice.dir/logical.cpp.o"
+},
+{
+  "directory": "/Users/mac/VScode/CPP/Blackhorse/build",
+  "command": "/usr/bin/clang++   -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/Blackhorse_practice.dir/love.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/love.cpp",
+  "file": "/Users/mac/VScode/CPP/Blackhorse/love.cpp",
+  "output": "CMakeFiles/Blackhorse_practice.dir/love.cpp.o"
+},
+{
+  "directory": "/Users/mac/VScode/CPP/Blackhorse/build",
+  "command": "/usr/bin/clang++   -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/Blackhorse_practice.dir/main.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/main.cpp",
+  "file": "/Users/mac/VScode/CPP/Blackhorse/main.cpp",
+  "output": "CMakeFiles/Blackhorse_practice.dir/main.cpp.o"
+},
+{
+  "directory": "/Users/mac/VScode/CPP/Blackhorse/build",
+  "command": "/usr/bin/clang++   -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/Blackhorse_practice.dir/main_menu.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/main_menu.cpp",
+  "file": "/Users/mac/VScode/CPP/Blackhorse/main_menu.cpp",
+  "output": "CMakeFiles/Blackhorse_practice.dir/main_menu.cpp.o"
+},
+{
+  "directory": "/Users/mac/VScode/CPP/Blackhorse/build",
+  "command": "/usr/bin/clang++   -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/Blackhorse_practice.dir/memory_free.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/memory_free.cpp",
+  "file": "/Users/mac/VScode/CPP/Blackhorse/memory_free.cpp",
+  "output": "CMakeFiles/Blackhorse_practice.dir/memory_free.cpp.o"
+},
+{
+  "directory": "/Users/mac/VScode/CPP/Blackhorse/build",
+  "command": "/usr/bin/clang++   -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/Blackhorse_practice.dir/new_delete.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/new_delete.cpp",
+  "file": "/Users/mac/VScode/CPP/Blackhorse/new_delete.cpp",
+  "output": "CMakeFiles/Blackhorse_practice.dir/new_delete.cpp.o"
+},
+{
+  "directory": "/Users/mac/VScode/CPP/Blackhorse/build",
+  "command": "/usr/bin/clang++   -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/Blackhorse_practice.dir/pointer_array.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/pointer_array.cpp",
+  "file": "/Users/mac/VScode/CPP/Blackhorse/pointer_array.cpp",
+  "output": "CMakeFiles/Blackhorse_practice.dir/pointer_array.cpp.o"
+},
+{
+  "directory": "/Users/mac/VScode/CPP/Blackhorse/build",
+  "command": "/usr/bin/clang++   -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/Blackhorse_practice.dir/salary.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/salary.cpp",
+  "file": "/Users/mac/VScode/CPP/Blackhorse/salary.cpp",
+  "output": "CMakeFiles/Blackhorse_practice.dir/salary.cpp.o"
+},
+{
+  "directory": "/Users/mac/VScode/CPP/Blackhorse/build",
+  "command": "/usr/bin/clang++   -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/Blackhorse_practice.dir/selection_sort.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/selection_sort.cpp",
+  "file": "/Users/mac/VScode/CPP/Blackhorse/selection_sort.cpp",
+  "output": "CMakeFiles/Blackhorse_practice.dir/selection_sort.cpp.o"
+},
+{
+  "directory": "/Users/mac/VScode/CPP/Blackhorse/build",
+  "command": "/usr/bin/clang++   -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/Blackhorse_practice.dir/size.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/size.cpp",
+  "file": "/Users/mac/VScode/CPP/Blackhorse/size.cpp",
+  "output": "CMakeFiles/Blackhorse_practice.dir/size.cpp.o"
+},
+{
+  "directory": "/Users/mac/VScode/CPP/Blackhorse/build",
+  "command": "/usr/bin/clang++   -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/Blackhorse_practice.dir/struct.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/struct.cpp",
+  "file": "/Users/mac/VScode/CPP/Blackhorse/struct.cpp",
+  "output": "CMakeFiles/Blackhorse_practice.dir/struct.cpp.o"
+},
+{
+  "directory": "/Users/mac/VScode/CPP/Blackhorse/build",
+  "command": "/usr/bin/clang++   -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/Blackhorse_practice.dir/struct_point.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/struct_point.cpp",
+  "file": "/Users/mac/VScode/CPP/Blackhorse/struct_point.cpp",
+  "output": "CMakeFiles/Blackhorse_practice.dir/struct_point.cpp.o"
+},
+{
+  "directory": "/Users/mac/VScode/CPP/Blackhorse/build",
+  "command": "/usr/bin/clang++   -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/Blackhorse_practice.dir/switch.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/switch.cpp",
+  "file": "/Users/mac/VScode/CPP/Blackhorse/switch.cpp",
+  "output": "CMakeFiles/Blackhorse_practice.dir/switch.cpp.o"
+},
+{
+  "directory": "/Users/mac/VScode/CPP/Blackhorse/build",
+  "command": "/usr/bin/clang++   -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/Blackhorse_practice.dir/变量.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/变量.cpp",
+  "file": "/Users/mac/VScode/CPP/Blackhorse/变量.cpp",
+  "output": "CMakeFiles/Blackhorse_practice.dir/变量.cpp.o"
+},
+{
+  "directory": "/Users/mac/VScode/CPP/Blackhorse/build",
+  "command": "/usr/bin/clang++   -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/Blackhorse_practice.dir/字面常量.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/字面常量.cpp",
+  "file": "/Users/mac/VScode/CPP/Blackhorse/字面常量.cpp",
+  "output": "CMakeFiles/Blackhorse_practice.dir/字面常量.cpp.o"
+},
+{
+  "directory": "/Users/mac/VScode/CPP/Blackhorse/build",
+  "command": "/usr/bin/clang++   -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/Blackhorse_practice.dir/将输入的字符输出.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/将输入的字符输出.cpp",
+  "file": "/Users/mac/VScode/CPP/Blackhorse/将输入的字符输出.cpp",
+  "output": "CMakeFiles/Blackhorse_practice.dir/将输入的字符输出.cpp.o"
+},
+{
+  "directory": "/Users/mac/VScode/CPP/Blackhorse/build",
+  "command": "/usr/bin/clang++   -O3 -DNDEBUG -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.0.sdk -o CMakeFiles/Blackhorse_practice.dir/符号常量.cpp.o -c /Users/mac/VScode/CPP/Blackhorse/符号常量.cpp",
+  "file": "/Users/mac/VScode/CPP/Blackhorse/符号常量.cpp",
+  "output": "CMakeFiles/Blackhorse_practice.dir/符号常量.cpp.o"
+}
+]
